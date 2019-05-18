@@ -1,1 +1,3 @@
-# Androind-Application---PCR
+# Androind-Application-PCR
+
+PCR- Public Complain Resolver is built in Java on android platform. If you have any problem related  to water supply and sewage, gas supply, electricity ,broadband, landline ,setup box then with the help of PCR you can lodge a complaint about that problem, without making an effort by walk to the office of GTPL /BSNL / GSPC / GEB / GWSSB. If user is new then, first she/he has to register herself/himself and if user is already registered then login option is there. Then there are options of GTPL, BSNL , GSPC ,GEB ,GWSSB to file complaint. The  response of the complaint will be send back to user. There is also facility of giving feedback about the service.
